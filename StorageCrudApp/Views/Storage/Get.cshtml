@@ -1,0 +1,51 @@
+﻿@model List<StorageCrudApp.Models.Student>
+{
+
+
+<table border="1">
+
+    <thead>
+        <tr>
+            <td>
+                <a href="@Url.Action()"></a>
+            </td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Email</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var  StudentObj in Model)
+        {
+            <tr>
+                <td>@StudentObj.Name</td>
+                <td>@StudentObj.Department</td>
+                <td>@StudentObj.Email</td>
+                @*<td>
+                   
+                  @if (!StudentObj.IsActive)
+                  {
+                        <text> <span style="color:red;">In Active</span> </text>
+                  }
+                  else
+                  {
+                        < text > < span style = "color:green;" > Active </ span > </ text >
+                    }
+                </td>*@
+                <td>
+                    <a href='@Url.Action("Index","Storage", new { id = StudentObj.RowKey})'>Edit</a>
+                    
+                    |
+                 
+                </td>
+                <td>
+                    <a href='@Url.Action("Delete","Storage", new {  id = StudentObj.RowKey})'>Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

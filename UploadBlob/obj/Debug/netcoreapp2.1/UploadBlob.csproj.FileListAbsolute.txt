@@ -1,0 +1,11 @@
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\bin\Debug\netcoreapp2.1\UploadBlob.deps.json
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\bin\Debug\netcoreapp2.1\UploadBlob.runtimeconfig.json
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\bin\Debug\netcoreapp2.1\UploadBlob.runtimeconfig.dev.json
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\bin\Debug\netcoreapp2.1\UploadBlob.dll
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\obj\Debug\netcoreapp2.1\UploadBlob.csprojAssemblyReference.cache
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\obj\Debug\netcoreapp2.1\UploadBlob.csproj.CoreCompileInputs.cache
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\obj\Debug\netcoreapp2.1\UploadBlob.AssemblyInfoInputs.cache
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\obj\Debug\netcoreapp2.1\UploadBlob.AssemblyInfo.cs
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\bin\Debug\netcoreapp2.1\UploadBlob.pdb
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\obj\Debug\netcoreapp2.1\UploadBlob.dll
+C:\Users\bharat.nannavare\source\repos\UploadBlob\UploadBlob\obj\Debug\netcoreapp2.1\UploadBlob.pdb
